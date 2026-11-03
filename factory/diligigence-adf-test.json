@@ -1,0 +1,15 @@
+{
+	"name": "diligigence-adf-test",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "indiasouthcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9778c912-b645-4f19-a998-f161b9a91861",
+		"tenantId": "4a10c5a0-a771-42a3-89a1-e1fc81c8ce67"
+	}
+}
